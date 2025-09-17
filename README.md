@@ -1,5 +1,3 @@
-# network-security-lab
-
 # 🛡️ Network Security Lab
 
 This repository demonstrates **common network attacks** and their **defenses** with theory, simulations, and mitigation scripts.
