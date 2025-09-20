@@ -1,5 +1,3 @@
-# `scripts/vlan_hardening.sh`
-```bash
 #!/bin/bash
 # vlan_hardening.sh
 # Generates switch hardening snippets and provides a Scapy double-tag demo script.
