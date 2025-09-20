@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 # Mitigation: Disable cleartext protocols and enforce encrypted ones
 
