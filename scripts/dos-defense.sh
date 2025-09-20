@@ -1,6 +1,3 @@
-
----
-
 ### 📂 `scripts/dos-defense.sh`
 ```bash
 #!/bin/bash
